@@ -1,0 +1,22 @@
+.line {
+    width: 100px;
+    background-color: black;
+    height: 5px;
+    margin: auto 500px;
+}
+
+#slide {
+    background-color: bisque;
+    width: 400px;
+}
+body {text-align: center}
+#slide img {
+    width: 350px;
+    align-content: center;
+}
+
+#slide inner {
+    color: blue;
+    font-size: 35px;
+   
+}
